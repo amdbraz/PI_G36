@@ -9,7 +9,7 @@ Integrantes do Projeto:
 • Maicon de Oliveira Pedro  
 • Daniela Santana Ferreira Santos  
 • Amanda Moreira Braz  
-• Gabriel Curz Souza  
+• Gabriel Cruz Souza  
 • Bruno do Nascimento Efigenio  
 • Francisco Ideam Gonçalves Marinho  
 
@@ -21,22 +21,108 @@ Divisão de Tarefas do Grupo
 
 Para garantir uma melhor organização e andamento do projeto, foi definida uma divisão de tarefas entre os integrantes, considerando as principais etapas necessárias para o desenvolvimento da análise e construção do dashboard.
 
-*Coleta e organização dos dados
+*Coleta e organização dos dados:
+
 Responsável por realizar o download da base de dados, verificar se os arquivos estão corretos e disponíveis para todos os integrantes. Também deverá organizar os dados em pastas ou ambientes compartilhados, garantindo fácil acesso ao grupo.
 
-*Criação das métricas
+*Criação das métricas:
+
 Responsável por desenvolver os cálculos necessários para a análise dos dados, como médias, percentuais, variações e comparações entre grupos. Essa etapa é fundamental para transformar os dados brutos em informações relevantes.
 
-*Elaboração dos gráficos
+*Elaboração dos gráficos:
+
 Responsável pela construção dos gráficos e visualizações no dashboard, escolhendo os tipos mais adequados para representar cada análise (como gráficos de barras, linhas, pizza ou indicadores). Também deverá organizar o layout visual para facilitar a interpretação.
 
-*Organização da documentação
+*Organização da documentação:
+
 Responsável por registrar todas as etapas do projeto, incluindo objetivos, metodologia, análises realizadas e decisões tomadas pelo grupo. Essa documentação será importante tanto para acompanhamento interno quanto para a entrega final do trabalho.
 
-*Organização da apresentação
+*Organização da apresentação:
+
 Responsável por estruturar a apresentação do projeto, definindo a sequência dos conteúdos, elaborando os slides e preparando a explicação dos resultados obtidos no dashboard.
 
-*Validação e testes
+*Validação e testes:
+
 Responsável por revisar os dados, verificar se as métricas e gráficos estão corretos, testar filtros e interações do dashboard e identificar possíveis erros ou inconsistências antes da entrega final.
+
+Sugestões de Análises para o Desenvolvimento do Projeto:
+
+Com base na base de dados definida pelo grupo, seguem algumas sugestões de análises que podem ser utilizadas na construção do dashboard e na extração de informações relevantes:
+
+1. Variação entre o peso inicial e o peso final
+Realizar a análise da mudança de peso dos indivíduos ao longo do período observado, identificando:
+
+- A quantidade de pessoas que ganharam peso;
+- A quantidade de pessoas que perderam peso;
+- A quantidade de pessoas que mantiveram o peso.
+
+Além disso, pode-se calcular a média de variação de peso para cada um desses grupos, permitindo uma melhor compreensão do comportamento geral da amostra.
+
+2. Influência da atividade física
+Comparar o peso médio ou a variação média de peso entre indivíduos que praticam atividades físicas e aqueles que não praticam.
+Essa análise pode ajudar a identificar o impacto do nível de atividade física na mudança de peso.
+
+3. Influência da alimentação
+Avaliar fatores relacionados aos hábitos alimentares, como:
+
+- Tipo de dieta adotada;
+- Frequência alimentar diária;
+- Consumo calórico médio.
+
+O objetivo é verificar como esses fatores podem estar associados ao ganho ou perda de peso.
+
+4. Influência da idade
+Realizar a análise da mudança de peso considerando diferentes faixas etárias, possibilitando:
+
+- Comparação entre jovens, adultos e idosos;
+- Identificação de padrões de ganho ou perda de peso conforme a idade.
+
+5. Importância do descanso e do sono
+Investigar a relação entre aspectos do estilo de vida e a variação de peso, como:
+
+- Quantidade média de horas de sono;
+- Níveis de estresse e ansiedade.
+
+Essa análise pode contribuir para compreender se fatores relacionados ao descanso e ao bem-estar emocional influenciam no ganho ou perda de peso.
+
+Sugestões de Análises para o Desenvolvimento do Projeto
+
+Com base na base de dados definida pelo grupo, seguem algumas sugestões de análises que podem ser utilizadas na construção do dashboard e na extração de informações relevantes:
+
+1. Variação entre o peso inicial e o peso final
+Realizar a análise da mudança de peso dos indivíduos ao longo do período observado, identificando:
+
+- A quantidade de pessoas que ganharam peso;
+- A quantidade de pessoas que perderam peso;
+- A quantidade de pessoas que mantiveram o peso.
+
+Além disso, pode-se calcular a média de variação de peso para cada um desses grupos, permitindo uma melhor compreensão do comportamento geral da amostra.
+
+2. Influência da atividade física
+Comparar o peso médio ou a variação média de peso entre indivíduos que praticam atividades físicas e aqueles que não praticam.
+Essa análise pode ajudar a identificar o impacto do nível de atividade física na mudança de peso.
+
+3. Influência da alimentação
+Avaliar fatores relacionados aos hábitos alimentares, como:
+
+- Tipo de dieta adotada;
+- Frequência alimentar diária;
+- Consumo calórico médio.
+
+O objetivo é verificar como esses fatores podem estar associados ao ganho ou perda de peso.
+
+4. Influência da idade
+Realizar a análise da mudança de peso considerando diferentes faixas etárias, possibilitando:
+
+- Comparação entre jovens, adultos e idosos;
+- Identificação de padrões de ganho ou perda de peso conforme a idade.
+
+5. Importância do descanso e do sono
+Investigar a relação entre aspectos do estilo de vida e a variação de peso, como:
+
+- Quantidade média de horas de sono;
+- Níveis de estresse e ansiedade.
+
+Essa análise pode contribuir para compreender se fatores relacionados ao descanso e ao bem-estar emocional influenciam no ganho ou perda de peso.
 
 Essa divisão poderá ser ajustada conforme a evolução do projeto e a necessidade de apoio entre os integrantes.
