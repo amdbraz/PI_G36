@@ -1,7 +1,7 @@
 # PI_G36
 Projeto Integrador - Grupo 36
 
-Tema do projeto: Análise de Dieta, previsão de peso  
+Tema do projeto: Análise de Dieta, previsão de peso.  
 Analisando os efeitos da dieta, do exercício e do estilo de vida na mudança de peso.
 
 Integrantes do Projeto:  
@@ -17,7 +17,7 @@ Objetivo:
 O crescente uso da análise de dados na área da saúde tem possibilitado compreender de forma mais precisa como diferentes fatores do estilo de vida influenciam o bem-estar e as mudanças no peso corporal. Nesse contexto, este projeto utiliza um conjunto de dados disponível na plataforma Kaggle composto por informações de 100 participantes, incluindo variáveis demográficas, hábitos alimentares, níveis de atividade física e aspectos relacionados ao estilo de vida.  
 Entre os principais atributos analisados estão idade, gênero, peso atual, ingestão calórica diária, distribuição de macronutrientes, qualidade do sono e níveis de estresse. O objetivo desta análise é investigar como essas variáveis se relacionam e de que forma podem influenciar variações no peso ao longo do tempo. A partir da exploração dos dados, queremos identificar padrões e gerar insights que contribuam para uma melhor compreensão dos fatores associados à saúde e ao controle de peso.
 
-Divisão de Tarefas do Grupo
+Divisão de Tarefas do Grupo:
 
 Para garantir uma melhor organização e andamento do projeto, foi definida uma divisão de tarefas entre os integrantes, considerando as principais etapas necessárias para o desenvolvimento da análise e construção do dashboard.
 
@@ -49,7 +49,7 @@ Sugestões de Análises para o Desenvolvimento do Projeto:
 
 Com base na base de dados definida pelo grupo, seguem algumas sugestões de análises que podem ser utilizadas na construção do dashboard e na extração de informações relevantes:
 
-1. Variação entre o peso inicial e o peso final
+1. Variação entre o peso inicial e o peso final.
 Realizar a análise da mudança de peso dos indivíduos ao longo do período observado, identificando:
 
 - A quantidade de pessoas que ganharam peso;
@@ -58,11 +58,11 @@ Realizar a análise da mudança de peso dos indivíduos ao longo do período obs
 
 Além disso, pode-se calcular a média de variação de peso para cada um desses grupos, permitindo uma melhor compreensão do comportamento geral da amostra.
 
-2. Influência da atividade física
+2. Influência da atividade física.
 Comparar o peso médio ou a variação média de peso entre indivíduos que praticam atividades físicas e aqueles que não praticam.
 Essa análise pode ajudar a identificar o impacto do nível de atividade física na mudança de peso.
 
-3. Influência da alimentação
+3. Influência da alimentação.
 Avaliar fatores relacionados aos hábitos alimentares, como:
 
 - Tipo de dieta adotada;
@@ -71,17 +71,22 @@ Avaliar fatores relacionados aos hábitos alimentares, como:
 
 O objetivo é verificar como esses fatores podem estar associados ao ganho ou perda de peso.
 
-4. Influência da idade
+4. Influência da idade.
 Realizar a análise da mudança de peso considerando diferentes faixas etárias, possibilitando:
 
 - Comparação entre jovens, adultos e idosos;
 - Identificação de padrões de ganho ou perda de peso conforme a idade.
 
-5. Importância do descanso e do sono
+5. Importância do descanso e do sono.
 Investigar a relação entre aspectos do estilo de vida e a variação de peso, como:
 
 - Quantidade média de horas de sono;
 - Níveis de estresse e ansiedade.
+
+ 6. Comparativo de resultados da dieta entre homens e mulheres.
+- Variação média de peso entre homens e mulheres;
+- Diferença de padrões alimentares;
+- Comparação das diferentes necessidades nutricionais.
 
 Essa análise pode contribuir para compreender se fatores relacionados ao descanso e ao bem-estar emocional influenciam no ganho ou perda de peso.
 
