@@ -90,3 +90,8 @@ Investigar a relação entre aspectos do estilo de vida e a variação de peso, 
 
 Essa análise pode contribuir para compreender se fatores relacionados ao descanso e ao bem-estar emocional influenciam no ganho ou perda de peso.
 
+## Processo de limpeza
+Os dados forma tratados utilizando Google colab incluindo
+-remoção de valores nulos
+-exclusão de duplicados
+-padronização de colunas
