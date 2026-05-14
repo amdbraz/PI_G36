@@ -95,3 +95,99 @@ Os dados forma tratados utilizando Google colab incluindo
 -remoção de valores nulos
 -exclusão de duplicados
 -padronização de colunas
+
+## PROCESSO DE ELABORAÇÃO DOS GRÁFICOS
+
+# Análise Exploratória de Dados — Projeto Integrador Grupo 36
+
+Este projeto apresenta uma análise exploratória detalhada de um conjunto de dados sobre hábitos de saúde e comportamento físico, realizada em **Python** utilizando **Google Colab** e **pandas**.
+
+---
+
+## Objetivo
+
+Explorar o dataset `dataset_tratado.csv` para identificar padrões relacionados a:
+- Idade, gênero e composição corporal  
+- Taxa metabólica basal (BMR)  
+- Consumo e saldo calórico diário  
+- Nível de atividade física  
+- Qualidade do sono e nível de estresse  
+- Mudança de peso ao longo do acompanhamento  
+
+---
+
+## Principais Insights
+
+- Participantes mais pesados apresentam maior **BMR** e **consumo calórico**.  
+- A maioria mantém um **saldo calórico neutro**, indicando equilíbrio energético.  
+- O grupo **Lightly Active** é o mais frequente, enquanto o **Sedentary** é o menor.  
+- A **qualidade do sono** tende a ser moderada, sem extremos predominantes.  
+- O **nível de estresse** é majoritariamente intermediário.  
+- Há correlação forte entre **peso atual**, **peso final** e **BMR**.
+
+---
+
+## Visualizações
+
+O notebook inclui gráficos para:
+- Distribuição de idade, gênero, peso e BMR  
+- Saldo calórico diário e mudança de peso  
+- Nível de atividade física e estresse  
+- Qualidade do sono  
+- Correlação entre variáveis numéricas  
+- Relação entre calorias consumidas e peso  
+- Peso final por nível de atividade física  
+
+---
+
+## Ferramentas Utilizadas
+
+- **Python 3.10+**
+- **Pandas**
+- **Matplotlib**
+- **Seaborn**
+- **Google Colab**
+
+---
+
+## Estrutura do Repositório
+
+PI_G36/
+│
+├── dataset_tratado.csv          # Dataset tratado e pronto para análise
+├── analise_exploratoria.ipynb   # Notebook com toda a análise exploratória
+└── README.md                    # Descrição do projeto
+
+---
+
+## Como Executar
+
+Abra o notebook diretamente no Colab:
+https://colab.research.google.com/github/amdbraz/PI_G36/blob/main/analise_exploratoria.ipynb
+
+O dataset é carregado automaticamente via GitHub:
+
+import pandas as pd
+url = 'https://raw.githubusercontent.com/amdbraz/PI_G36/refs/heads/main/dataset_tratado.csv'
+df = pd.read_csv(url)
+
+Execute as células para gerar os gráficos e análises.
+
+---
+
+## Métricas Definidas
+
+Peso inicial, final e variação percentual
+BMR individual e saldo calórico médio
+Classificação de atividade física
+Qualidade média do sono
+Correlação entre peso, BMR e calorias
+
+## Autores
+Projeto desenvolvido por Grupo 36 — Projeto Integrador.
+Colaboração: Maicon e equipe.
+
+## Licença
+Este projeto é de uso acadêmico e educacional.
+Distribuição livre mediante citação da fonte.
+
