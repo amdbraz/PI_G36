@@ -153,9 +153,13 @@ O notebook inclui gráficos para:
 ## Estrutura do Repositório
 
 PI_G36/
+
 │
+
 ├── dataset_tratado.csv          # Dataset tratado e pronto para análise
+
 ├── analise_exploratoria.ipynb   # Notebook com toda a análise exploratória
+
 └── README.md                    # Descrição do projeto
 
 ---
