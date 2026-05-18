@@ -212,10 +212,6 @@ Publicação no Streamlit:
 Por fim, o projeto será publicado utilizando o Streamlit, permitindo transformar a análise em uma aplicação interativa. Dessa forma, os usuários poderão visualizar os gráficos, explorar os dados e interagir com as informações de maneira prática e dinâmica através de uma interface web.
 
 
-## Autores
-Projeto desenvolvido por Grupo 36 — Projeto Integrador.
-Colaboração: Maicon e equipe.
-
 ## Licença
 Este projeto é de uso acadêmico e educacional.
 Distribuição livre mediante citação da fonte.
