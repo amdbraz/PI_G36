@@ -5,7 +5,7 @@ import plotly.express as px
 st.title("Dashboard Completo do Banco de Dados")
 
 # Lendo o CSV
-url = "https://raw.githubusercontent.com/Maiconpedro87/projeto_test/main/dataset_tratado.csv"
+url = "https://github.com/amdbraz/PI_G36/blob/main/dataset_tratado.csv"
 df = pd.read_csv(url)
 
 st.subheader("Prévia dos dados")
