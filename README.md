@@ -187,6 +187,31 @@ Classificação de atividade física
 Qualidade média do sono
 Correlação entre peso, BMR e calorias
 
+
+## Etapas do Projeto
+
+Coleta e organização dos dados:
+Nesta etapa foi realizada a coleta da base de dados escolhida no Kaggle, reunindo informações relacionadas à saúde, hábitos alimentares, atividades físicas e estilo de vida dos participantes. Após a coleta, os dados foram organizados e estruturados para facilitar as análises posteriores, garantindo maior consistência e qualidade das informações utilizadas no projeto.
+
+Criação das métricas:
+Nesta fase foram definidas as principais métricas utilizadas para análise dos dados. Foram criados indicadores que possibilitam entender padrões relacionados à saúde e ao comportamento dos participantes, como média de calorias consumidas, qualidade do sono, níveis de atividade física e variações de peso. Essas métricas servem como base para a interpretação dos resultados obtidos.
+
+Elaboração dos gráficos:
+Após a definição das métricas, foram desenvolvidos gráficos e visualizações para facilitar a compreensão dos dados. Os gráficos ajudam a identificar tendências, padrões e possíveis relações entre variáveis, tornando a análise mais intuitiva e objetiva.
+
+Organização da documentação:
+Nesta etapa será feita a organização de toda a documentação do projeto, reunindo informações sobre o objetivo da análise, descrição da base de dados, metodologia aplicada, ferramentas utilizadas e resultados obtidos. O intuito é garantir que o projeto fique bem estruturado e fácil de entender para qualquer pessoa que acessar o repositório.
+
+Organização da apresentação:
+Aqui será preparada a apresentação final do projeto, resumindo os principais pontos da análise de forma visual e objetiva. Serão destacados os objetivos, metodologia, gráficos gerados, insights encontrados e conclusões obtidas ao longo do desenvolvimento do trabalho.
+
+Validação e testes:
+Nesta fase serão realizados testes para verificar se todas as análises, métricas e visualizações estão funcionando corretamente. Também será feita a validação dos dados e dos resultados obtidos, garantindo maior confiabilidade para o projeto e reduzindo possíveis erros ou inconsistências.
+
+Publicação no Streamlit:
+Por fim, o projeto será publicado utilizando o Streamlit, permitindo transformar a análise em uma aplicação interativa. Dessa forma, os usuários poderão visualizar os gráficos, explorar os dados e interagir com as informações de maneira prática e dinâmica através de uma interface web.
+
+
 ## Autores
 Projeto desenvolvido por Grupo 36 — Projeto Integrador.
 Colaboração: Maicon e equipe.
